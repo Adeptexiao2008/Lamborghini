@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    max-width: 100%;
+
+}
+.container{
+    width: 100%;
+}
+.mid-line{
+    display: flex;
+    justify-content: space-between;
+    background: grey;
+    padding: 10px 0;
+}
+.footer-line{
+    background: saddlebrown;
+ flex-direction: column;
+margin-left: 150px;
+
+}
+.aventador{
+    height: 100%;
+    width: 100%;
+
+}
+.huracan{
+    height: 100%;
+    width: 100%;
+}
+.left{
+    border: 2px solid black;
+    background: khaki;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+}
+.right{
+    border: 2px solid black;
+    background: khaki;
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+}
+.lamb{
+    display: flex;
+
+}
+.lambo{
+    font-size: 15px;
+    font-weight: 700;
+}
+.left-fer{
+    border: 2px solid black;
+    background: khaki;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+}
+.right-fer{
+    border: 2px solid black;
+    background: khaki;
+    width: 50%;
+    text-align: center;
+    padding: 20px;
+}
+.Ferrari-par{
+    display: flex;
+}
+.feri{
+    height: 100%;
+    width: 100%;
+}
+.fer-text{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.porsh{
+    display: flex;
+}
+.porshl{
+    width: 50%;
+    border: 2px solid black;
+    background: khaki;
+padding: 20px;
+    text-align: center;
+}
+.porshr{
+    width: 50%;
+    border: 2px solid black;
+    background: khaki;
+padding: 20px;
+    text-align: center;
+}
+.porsch{
+    height: 100%;
+    width: 100%;
+}
+.porsch-text{
+    font-size: 15px;
+    font-weight: 700;
+}
+.prices-par{
+    text-align: center;
+    background: aqua;
+    border: 1px solid black;
+    width: 33%;
+    padding: 20px;
+}
+.prices{
+    flex-wrap: wrap;
+    display: flex;
+}
+.pr{
+    width: 100%;
+    height: 100%;
+}
+.extra{
+   flex-direction: column;
+    align-items: center;
+    background: saddlebrown;
+    margin-left: 270px;
+}
+.footer-par{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    background: saddlebrown;
+}
+.li-parent{
+    display: flex;
+    column-gap: 150px;
+}
