@@ -10,7 +10,7 @@ const Lamborghini = () => {
                 <div className="lamb">
                     <div className="left">
                         <img className='aventador' src={Aventador} alt=""/>
-                        <h1 className='lambo'>Lamborghini Aventador</h1>
+                        <h1 className='lambo'>hELLO</h1>
                         <h2>{price}</h2>
                     </div>
                    <Huracan price={price}/>
